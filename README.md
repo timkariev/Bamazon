@@ -2,6 +2,7 @@
 
 
 Instructions
+
     * Run this application in command line running either "node bamazonCustomer.js" or "node bamazonManager.js"
     * Each application will present options of what the user can do using inquirer
     * As a Customer, you can purchase products
