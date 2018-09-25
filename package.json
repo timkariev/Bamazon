@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/timkariev/Bamazon#readme",
   "dependencies": {
+    "colors": "^1.3.2",
+    "inquirer": "^6.2.0",
     "mysql": "^2.16.0"
   }
 }
