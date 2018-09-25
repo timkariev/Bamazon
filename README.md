@@ -17,8 +17,16 @@ Project Design
     * A switch statement was used for the manager portion to determine which function to use
     * View the gifs below to see different app behavior
 
-UI
+#### Customer UI
 
-Purchase 
+### Purchase Product 
+![Purchase Product](https://media.giphy.com/media/g0EpMhV7RnW7n3KuJd/giphy.gif)
+
+
+#### Manager UI
+
+
+### View Products - View Low Inventory - Add Product 
+![View Products](https://media.giphy.com/media/5dYeduYdO3A61bksua/giphy.gif)
 
 
